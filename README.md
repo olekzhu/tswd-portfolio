@@ -8,13 +8,17 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 - This repository: https://github.com/cmustudent/tswd-portfolio-templates/
 
 # Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
+This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should ~~probably~~ ***Definitely*** hire me. 
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+Hi!, I am a 2nd year Carnegie Mellon Mechanical Engineering and ETIM MS student; my undergraduate background is in Engineering Physics at UC Berkeley. My interests are in product management and market strategy, though I have had experience in project management.
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
+I hope to learn how effectively to represent and look at data as a whole. Data visualization is as important a job as any other in any single field. I'm excited to learn how to make use of different representation tools available, and eventually applying them in my professional life! 
+
+
+
+
 
 1. List item #1
 2. List item #2
