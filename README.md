@@ -8,7 +8,7 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 - This repository: https://github.com/cmustudent/tswd-portfolio-templates/
 
 # Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should ~~probably~~ ***Definitely*** hire me. 
+This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should ~~probably~~ ***definitely*** hire me. 
 
 # About me
 Hi!, I am a 2nd year Carnegie Mellon Mechanical Engineering and ETIM MS student; my undergraduate background is in Engineering Physics at UC Berkeley. My interests are in product management and market strategy, though I have had experience in project management.
