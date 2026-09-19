@@ -18,7 +18,7 @@ _Include link to the original data visualization (or screenshot - make sure to c
 
 The visualization I chose came from: https://makeovermonday.vercel.app/dataset/2025-week-14-pet-ownership
 
-I chose this visualization because I had wanted to work with something animal-related, and none of the others I had found piqued my interest. This visual had an immediately interesting and unique design, and I didn't see too much wrong at first glance; it was surprisingly effective at conveying what it intended. What stood out to me was the overall completeness of the picture it painted. Starting in the middle, the little animal drawings and color-coding make it fairly straightforward to interpret what it is communicating and to go around country by country (Or skip to whichever one you are interested in). While the colors are not perfect, they are not too distracting, the pet shapes themselves are simple but appealing, and despite all of the numbers, it doesn't seem the slightest bit crowded. 
+I chose this visualization because I had wanted to work with something animal-related, and none of the others I had found piqued my interest. This visual had an immediately interesting and unique design, and I didn't see too much wrong at first glance; it was surprisingly effective at conveying what it intended. What stood out to me was the overall completeness of the picture it painted. It essentially gives the percentage of people living with dogs, cats, fish, or birds in particular countries/cities in 2016. Starting in the middle, the little animal drawings and color-coding make it fairly straightforward to interpret what it is communicating and to go around country by country (Or skip to whichever one you are interested in). While the colors are not perfect, they are not too distracting, the pet shapes themselves are simple but appealing, and despite all of the numbers, it doesn't seem too crowded. 
 
 
 ## Step two: the critique
@@ -26,9 +26,9 @@ I chose this visualization because I had wanted to work with something animal-re
 _Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
 -->
 
-With that being said, it is not perfect, especially the longer you look at it. There is no easy way to compare country to country, at least some light math is needed. Depending on the countries, the eye travel distance might be higher, especially when comparing multiple pets. For example, comparing Poland and Germany, which should be right next to each other, requires alternating from the left to right side, which is disorienting and easy to be bothered by. The visualization is great to note what the values are for one specific country that you care about, but the moment it becomes a comparison then it falls apart.
+With that being said, it is not perfect, especially the longer you look at it. There is no easy way to compare country to country, at least some light math is needed. Depending on where you're looking, the eye travel distance might be higher, especially when comparing multiple pets. For example, comparing Poland and Germany, which should be right next to each other, requires alternating from the left to right side, which is disorienting and easy to be bothered by. The visualization is great to note what the values are for one specific country that you care about, but the moment it becomes a comparison then it falls apart.
 
-Additionally, while alphabetical order makes a particular country easy to find by following the circle, it also makes it geographically challenging to get an immediate reference for what other included countries are around it. No matter how geographically well-versed a reader is, there is an extra burden placed. This is my most important critique, and the primary reason that I even decided to look into rebuilding this visualization. While I've said the alphabetical order is helpful, I believe that separating by region and making subsections would have been more generally insightful. If all of the European countries (which there are ~11 of) were on one side, then organized in a way that grouped adjacent countries together, this would already be a significantly more useful visual. While it may trade the initial speed in finding the desired country, it eliminates the eye travel for relevant comparisons. There are more directions that grouping could take, but given the sparse nature of the non-European data, it is not necessary to go into detail. 
+Additionally, while alphabetical order makes a particular country easy to find by following the circle, it also makes it geographically challenging to get an immediate reference for what other included-in-the-data countries are near it. No matter how geographically well-versed a reader is, there is an extra burden placed on them. This is my most important critique, and the primary reason that I even decided to look into rebuilding this visualization. While I've said the alphabetical order is helpful, I believe that separating by region and making subsections would have been more generally insightful. If all of the European countries (which there are ~11 of) were on one side, then organized in a way that grouped adjacent countries together, this would already be a significantly more useful visual. While it may trade the initial speed in finding the desired country, it eliminates the eye travel for relevant comparisons. There are more directions that grouping could take, but given the sparse nature of the non-European data, it is not necessary to go into detail. 
 
 Light math is also necessary for comparing countries, there is no easy visual comparison, but it is understandable considering how cluttered it would otherwise get. If that was the only goal, it would be useful to use something like split bars.
 
@@ -41,15 +41,17 @@ There are also a few small critiques that can be made:
 
 <img width="731" height="599" alt="International Pets Sketch" src="https://github.com/user-attachments/assets/ade3b062-5753-44c3-adb8-033395c7c946" />
 
-My sketch was done very roughly to show the general idea, and doesn't include most of the country-specific data that I wanted to include.
+My sketch was done very roughly to show the general idea, and doesn't include most of the country-specific data values on the side.
 
 ## Step four: Test the solution
 
+<!--
 _Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
+-->
 
-Because my sketch was not "finished" I gave a description to the group prior to asking any questions and discussing with them.
+Because my sketch was not "finished" I gave a description to my critique group prior to asking any questions and discussing with them.
 
-Questions that I asked along with answers: 
+Questions that I asked: 
 - Is there anything you find confusing or surprising?
 - Who do you think is the intended audience for this?
 - Is there anything you would change or do differently?
@@ -64,7 +66,7 @@ Results:
 
 Synthesis: 
 
-Everybody in the group thought that the coloring oversimplified the data, which I do not disagree with. However, my sketch did not do a good job representing how each country was going to display the numbers near it in a similar way to the original visualization. This was partially due to not wanting to add too much clutter, but also not wanting to remove parts of the map and leaving the map feeling incomplete. Removing the space without data was a common theme, and I am in total agreement, but going the step further and just having it be Europe ie even more effective. With this, there is less to worry about in terms of placement and feeling of clutter. Another way to help with the solid coloring is having a gradient to at least be able to compare the relative max values for each country with the same top pet.
+Everybody in the group thought that the coloring oversimplified the data, which I do not disagree with. However, my sketch did not do a good job representing how each country was going to display the numbers near it in a similar way to the original visualization. This was partially due to not wanting to add too much clutter, but also not wanting to remove parts of the map and leaving the map feeling incomplete. Removing the space without data was a common suggestion made by my peers, and I am in total agreement, but going the step further and just having it be Europe is even more effective. With this, there is less to worry about in terms of placement and feeling of clutter. Another way to help with the solid coloring is having a gradient to at least be able to compare the relative max values for each country with the same top pet.
 
 Something that I had forgotten to consider was the red and green color combination. As the two most recurring colors in the sketch, it would be difficult for those with red/green colorblindness to tell cat countries apart from dog countries.
 
@@ -88,10 +90,9 @@ _Include and describe your final solution here. It's also a good idea to summari
 </iframe>
 
 
-My final version ended up failing to incorporate many of the crucial aspects that I wanted to incorporate, and ended up rather simple. It tells the story of what each country's top pet is, with the interesting standout from Turkey as the only country that has birds as the top pet. I tried incorporating the gradient, but for some reason Tableau was only giving me the option of either the top pet color or top pet percentage gradient, rather than using the top pet percentage as the value for the gradient of the particular top pet.
+My final version failed to incorporate many of the crucial aspects that I wanted to incorporate, and ended up rather simple. It tells the story of what each country's top pet is, with the interesting standout from Turkey as the only country that has birds as the top pet. I tried incorporating the gradient, but for some reason Tableau was only giving me the option of either the top pet color or top pet percentage gradient, rather than using the top pet percentage as the value for the gradient of the particular top pet. I also was not sure how to even begin tackling the beast of including all 4 of the individual pet values and symbols (in an appropriate region) for each country. 
 
-I also was not sure how to even begin tackling the beast of including all 4 of the individual pet values (in an appropriate region) for each country. While it tells a story, it doesn't nearly as deeply explore the story that I intended for it to tell. I'm glad that the map gives a visualization of where what countries are in reference to each other. Also, cutting non-European countries ended up being great for having attention in one place, but I believe the data is a tad too limited to make an effective full story; too many countries are greyed out.
-
+While my new visualization tells a story, it doesn't nearly as deeply explore the story that I intended for it to tell. I'm glad that the map gives a visualization of where what countries are in reference to each other. Also, cutting non-European countries ended up being great for having attention in one place, but I believe the data is a tad too limited to make an effective full story; too many countries are greyed out.
 
 ## References
 “Man’s Best Friend: Global Pet Ownership and Feeding Trends.” NIQ, 22 Nov. 2016, nielseniq.com/global/en/insights/report/2016/mans-best-friend-global-pet-ownership-and-feeding-trends/. 
