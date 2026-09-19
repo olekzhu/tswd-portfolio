@@ -16,10 +16,14 @@ _You can include screenshots, sketches or other artifacts with your narrative to
 _Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
 -->
 
-The visualization I chose came from: https://makeovermonday.vercel.app/dataset/2025-week-14-pet-ownership
+Original Visualization: [MakeoverMonday 2025 Week 14 - Pet Ownership](https://makeovermonday.vercel.app/dataset/2025-week-14-pet-ownership)
 
-I chose this visualization because I had wanted to work with something animal-related, and none of the others I had found piqued my interest. This visual had an immediately interesting and unique design, and I didn't see too much wrong at first glance; it was surprisingly effective at conveying what it intended. What stood out to me was the overall completeness of the picture it painted. It essentially gives the percentage of people living with dogs, cats, fish, or birds in particular countries/cities in 2016. Starting in the middle, the little animal drawings and color-coding make it fairly straightforward to interpret what it is communicating and to go around country by country (Or skip to whichever one you are interested in). While the colors are not perfect, they are not too distracting, the pet shapes themselves are simple but appealing, and despite all of the numbers, it doesn't seem too crowded. 
+<img width="1396" height="785" alt="International_Pet_Ownership" src="https://github.com/user-attachments/assets/e568af2a-e73a-473f-ad07-23f32c979e8c" />
 
+
+The data comes from a 2016 NielsenIQ global survey covering 22 countries. It tracks pet ownership rates in households across four major pet categories: Dogs, Cats, Birds, and Fish.
+
+I chose this visualization because I had wanted to work with an animal-related topic, and none of the others I had found piqued my interest. This visual had an immediately interesting circular design and was surprisingly effective at conveying what it intended. What stood out to me was the overall completeness of the picture it painted. It essentially gives the percentage of people living with dogs, cats, fish, or birds in particular countries/cities in 2016. Starting in the middle, the little animal drawings and color-coding make it fairly straightforward to interpret what it is communicating and to go around country by country (Or skip to whichever one you are interested in). While the colors are not perfect, they are not too distracting, the pet shapes themselves are simple but appealing, and despite all of the numbers, it doesn't seem too crowded.
 
 ## Step two: the critique
 <!--
@@ -37,11 +41,24 @@ There are also a few small critiques that can be made:
 - The yellow shade used is just slightly too light for comfort, it should be at the very least darkened.
 - There is a random city, Hong Kong, in a set of countries.
 
+Restructuring the above into Stephen Few's Data Visualization Effectiveness Framework:
+- Perceptibility & Comparison: Low due to the difficulty comparing geographically-adjacent countries and extra required eye-travel. The Poland and Germany example illustrates this well.
+- Intuitiveness & Organization: Medium because while alphabetical ordering makes looking up a specific individual country fast, it completely breaks geographic intuitiveness. Readers lose the context of regional pet trends, or at the very least have to think very hard to maintain the mental map.   
+- Completeness & Context: Medium because the visual provides complete data values for single countries, but it doesn't contain many major regions and countries upon a closer look.
+- Usefulness: Medium because the visual works well as a look-up table for cultural trivia, but fails to deliver actionable insights for analysts, industry researchers, or animal professionals.   
+- Truthfulness: High because data values and proportions are rendered accurately without distorting the underlying survey figures. There are no misleading aspects that make the reader come to any differing conclusions; it stays pretty objective.
+- Aesthetics & Engagement: High because the simple pet icons and clean typography make it visually inviting. However, using two similar shades of blue for distinct categories creates minor visual confusion, as well as the use of a lighter yellow.
+
+
 ## Step three: Sketch a solution
 
 <img width="731" height="599" alt="International Pets Sketch" src="https://github.com/user-attachments/assets/ade3b062-5753-44c3-adb8-033395c7c946" />
 
 My sketch was done very roughly to show the general idea, and doesn't include most of the country-specific data values on the side.
+
+To address the spatial and perceptibility flaws of the original circular layout, I sketched a geographic map focus. The wireframe focused on:
+Geographic Grouping: Transitioning from an alphabetical circle to a map layout so neighboring countries (like Germany and Poland) sit side-by-side.
+Dominant Pet Visualization: Color-coding countries by their #1 most popular pet, while reserving margin space for secondary metric callouts.
 
 ## Step four: Test the solution
 
