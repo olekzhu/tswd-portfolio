@@ -18,7 +18,7 @@ _Include link to the original data visualization (or screenshot - make sure to c
 
 Original Visualization: [MakeoverMonday 2025 Week 14 - Pet Ownership](https://makeovermonday.vercel.app/dataset/2025-week-14-pet-ownership)
 
-<img width="1396" height="785" alt="International_Pet_Ownership" src="https://github.com/user-attachments/assets/e568af2a-e73a-473f-ad07-23f32c979e8c" />
+<img alt="International_Pet_Ownership" src="https://github.com/user-attachments/assets/e568af2a-e73a-473f-ad07-23f32c979e8c" />
 
 
 The data comes from a 2016 NielsenIQ global survey covering 22 countries. It tracks pet ownership rates in households across four major pet categories: Dogs, Cats, Birds, and Fish.
