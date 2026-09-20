@@ -114,5 +114,7 @@ While my new visualization tells a story, it doesn't nearly as deeply explore th
 ## References
 “Man’s Best Friend: Global Pet Ownership and Feeding Trends.” NIQ, 22 Nov. 2016, nielseniq.com/global/en/insights/report/2016/mans-best-friend-global-pet-ownership-and-feeding-trends/. 
 
+Data Visualization Effectiveness Profile, www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf. Accessed 14 Sept. 2026. 
+
 ## AI acknowledgements
 I used Gemini to help me figure out how to navigate Tableau's basic functions because I am still fairly new to it.
