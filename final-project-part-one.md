@@ -109,19 +109,18 @@ Deacon, F., & Tutchings, A. (2018). "The South African giraffe Giraffa camelopar
 
 Suraud, J.-P., et al. “Higher than Expected Growth Rate of the Endangered West African Giraffe Giraffa Camelopardalis Peralta: A Successful Human–Wildlife Cohabitation: Oryx.” Cambridge Core, Cambridge University Press, 4 Oct. 2012, www.cambridge.org/core/journals/oryx/article/higher-than-expected-growth-rate-of-the-endangered-west-african-giraffe-giraffa-camelopardalis-peralta-a-successful-humanwildlife-cohabitation/73BF29285A33B20D210790ECC786D079.
 
-## Data
+## The Data
 
-Giraffe Area Map: https://www.iucnredlist.org/species/9194/136266699#population
-
-Protected Area Percentage Map: https://data.worldbank.org/indicator/ER.LND.PTLD.ZS
-
+Giraffe Area Map: https://www.iucnredlist.org/species/9194/136266699#population<br>
+This data presents all of the different giraffe subspecies based on the old identification under one species. I took this data and shifted the areas' names into the modern naming conventions of the four giraffe species and subspecies after 2018-2020. The data visualized is for the four species of giraffes based on where they were in 2016.<br><br>
+Protected Area Percentage Map: https://data.worldbank.org/indicator/ER.LND.PTLD.ZS\<br>
 I had initially taken the data from each country profile from
 https://giraffeconservation.org/programs/giraffe-conservation-status-assessment/ 
 To build my map, but there were a few gaps in the countries that the areas covered, so I figured it would be most effective to take from one more cohesive source. This would not only be one source of more countries (All of Africa), but also give me control over the particular year represented. My previous set was based on fragmented random years from around 2020 to 2025. I wanted to take the most recent year available in all of my countries, but decided on 2016 because it was a critical year for recognizing how impacted giraffes were, so I didn’t wanna misrepresent based on what changes were made in the decade since.
 
 
 ## AI acknowledgements
-I used AI to brainstorm ideas for what direction to take in my final project, as well as for working with my data in tableau. I also used it to find some of my sources.
+I used AI to brainstorm ideas for what direction to take in my final project, as well as for working with my data in tableau. I also used it to find some of my sources, particularly the academic literature.
 
 <!--
 > A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
