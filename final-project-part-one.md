@@ -117,6 +117,8 @@ Protected Area Percentage Map: https://data.worldbank.org/indicator/ER.LND.PTLD.
 I had initially taken the data from each country profile from
 https://giraffeconservation.org/programs/giraffe-conservation-status-assessment/ 
 To build my map, but there were a few gaps in the countries that the areas covered, so I figured it would be most effective to take from one more cohesive source. This would not only be one source of more countries (All of Africa), but also give me control over the particular year represented. My previous set was based on fragmented random years from around 2020 to 2025. I wanted to take the most recent year available in all of my countries, but decided on 2016 because it was a critical year for recognizing how impacted giraffes were, so I didn’t wanna misrepresent based on what changes were made in the decade since.
+<br>
+I will also need to find data on deforestation and the populations of all Northern giraffe subspecies over the years to recreate and adjust the visuals linked and recreated above.
 
 
 ## AI acknowledgements
@@ -147,4 +149,4 @@ Text here...
 
 
 
---!>
+-->
