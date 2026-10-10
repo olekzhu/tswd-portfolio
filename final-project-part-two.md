@@ -99,4 +99,4 @@ Suraud, J.-P., et al. “Higher than Expected Growth Rate of the Endangered West
 Conciatore, Jacqueline. “Investigations Show Giraffes Are Threatened by Bushmeat Trade, Demand for Body Parts.” African Wildlife Foundation, 19 Sept. 2019, www.awf.org/blog/investigations-show-giraffes-are-threatened-bushmeat-trade-demand-body-parts.
 
 ## AI acknowledgements
-I used AI to help find additional sources to add onto my existing data. I also used it to build my giraph transition.
+I used AI to help find additional sources to add onto my existing data. I also used it to build my giraph transition and to help think of new ways to more concisely reword ideas.
