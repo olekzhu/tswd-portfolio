@@ -49,10 +49,11 @@ Text here!
 |   Take out anything muddling my narrative   |        Was there anything confusing in the overall story? Were all of the visualizations needed?          |
 |   Anything the above doesn't cover    |        Any other comments or concerns?          |
 
+I had more than 3 people look at the project and give general feedback, but I chose to give the interview to 3 very different people. One person from class, a friend from a completely different department, as well as my professor for another class. I felt that these people would give me great variety in what is focused on with the feedback, and I was correct.
 
 ## Interview findings
 
-| Questions               | Interview 1 - TSWD Classmate | Interview 2 - Friend | Interview 3 - One of My Professors |
+| Questions               | Interview 1 - TSWD Classmate (Heinz) | Interview 2 - Student (INI) | Interview 3 - One of My Professors (Heinz) |
 |-------------------------|--------------------------------|-------------|-------------|
 | Did my outline flow through smoothly? Was there anything that you'd change with the order or context? | "The flow was really strong..." | Thought flow was smooth | "Order was good trajectory transitions were all good" |
 | Does my call to action fit with the story's progression or does it seem abrupt? | It "fits the progression really well" but it could be "slightly more specific" | Seems fine | "Fits and is opposite of abrupt, here’s what’s happened, we know the methods work" |
@@ -74,7 +75,7 @@ Text here!
 | Adding some statistics for the causes would be helpful to see how much of a problem it is | Add statistics on deforestation and poaching (No visuals so as to not disrupt the transitions) |
 
 
-I think I had most of my initial rough draft set up pretty well, it was more formatting issues. Removing the protected percentage per country approach was already in the works, I had changed the Part I order up entirely to make the transitions fit smoothly. The main flow worked well, so fortunately all of my fixes are essentially "surface level" and straight forward. I got the first 2 interviewees to look over my changes and they approved.
+I think I had most of my initial rough draft set up pretty well, I had more than formatting issues than anything. Removing the protected percentage per country approach was already in the works, I had changed the Part I order up entirely to make the transitions fit smoothly. The main flow worked well, so fortunately all of my fixes are essentially "surface level" and straight forward. I also got the first 2 interviewees to look over my changes later on and they approved.
 
 <!--
 # Moodboards / personas
