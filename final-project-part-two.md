@@ -7,7 +7,8 @@
 Text here!
 -->
 
-https://preview.shorthand.com/G3w7WCbwDpKOXOuH/responsive/desktop
+[https://preview.shorthand.com/G3w7WCbwDpKOXOuH/responsive/desktop
+](https://carnegiemellon.shorthandstories.com/Save-The-Melmans---Dont-Turn-Your-Back-On-Giraffes/index.html)
 
 Here is a preview of my project with most of what I put in part one, with a bit more creative flair. I ended up changing the flow of the story after receiving some feedback about the percentage of protected area. A similar approach is taken to juxtapose Niger and South Africa's conservation, but with less emphasis on how much of their land area is considered protected.
 
